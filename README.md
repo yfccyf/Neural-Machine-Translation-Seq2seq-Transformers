@@ -8,7 +8,7 @@
 2. Bi-LSTM RNNs Encoder-Decoder SeqsSeq with Attention Mechanism
 3. Transformers Encoder-Decoder Seq2seq
 
-![](images/solar_panel.png)
+![](images/neural_machine_translation.png)
 
 ## Result
 The Encoder-Decoder seq2seq with transformers appproach achieved 38.5 BLEU on kde4 English-to-French task
@@ -19,12 +19,10 @@ The Encoder-Decoder seq2seq with transformers appproach achieved 38.5 BLEU on kd
 **Packages:** PyTorch, TensorFlow, Keras, Numpy
 
 ## Approach 1: Bi-LSTM RNNs Encoder-Decoder Seq2seq
-* Power Generation Data: 34 days of power generation data recorded in 15-minute interval
+![](images/seq2seq.png)
 
 ## Approach 2: Transformers Encoder-Decoder Seq2seq
-* Power Generation Data: 34 days of power generation data recorded in 15-minute interval
+![](images/seq2seq_attention.png)
 
 ## Approach 3: Bi-LSTM RNNs Encoder-Decoder SeqsSeq with Attention Mechanism
-* Power Generation Data: 34 days of power generation data recorded in 15-minute interval
-
-![](images/df2_head.png)
+![](images/transformer.png)
