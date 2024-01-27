@@ -22,7 +22,7 @@ The Encoder-Decoder seq2seq with transformers appproach achieved 38.5 BLEU on kd
 ![](images/seq2seq.png)
 
 ## Approach 2: Transformers Encoder-Decoder Seq2seq
-![](images/seq2seq_attention.png)
+<img src="images/seq2seq_attention.png" height=500>
 
 ## Approach 3: Bi-LSTM RNNs Encoder-Decoder SeqsSeq with Attention Mechanism
-![](images/transformer.png)
+<img src="images/transformer.png" height=750>
